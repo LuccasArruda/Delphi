@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2023/03/11 01:41:27.109,=C:\Users\Renato\OneDrive - Etec Centro Paula Souza\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/03/11 02:02:27.304,C:\Github\Delphi\Simple Client Browse\UBrowClient.pas=C:\Users\Renato\OneDrive - Etec Centro Paula Souza\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/03/11 02:02:27.304,C:\Github\Delphi\Simple Client Browse\UBrowClient.dfm=C:\Users\Renato\OneDrive - Etec Centro Paula Souza\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/03/11 02:02:38.074,C:\Github\Delphi\Simple Client Browse\ClientBrowser.dproj=C:\Users\Renato\OneDrive - Etec Centro Paula Souza\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
